@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This website help you tract your expenses.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://aesthetic-longma-e09055.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a music player where you can listen your favourite tracks.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://dynamic-sunflower-7221cf.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This projects helps you keep track of your activities.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://glistening-daifuku-46a2bc.netlify.app/",
+    "source": "https://www.github.com"
+  }
+]
